@@ -1,0 +1,140 @@
+.btn-rectangulo{
+	background-color:transparent;
+	border:1px solid #FF9600;
+	color: #FF9600;
+	border-radius: 0;
+	padding: 10px 30px;
+	text-transform: lowercase;
+	font-weight:600;
+	
+}
+.btn-rectangulo:hover{
+	background-color: #FFFFFF;
+	color:#000;
+	
+}
+
+#sec-slides h1{
+	font-size: 80px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #FF9600;
+	text-align: left;
+}
+
+#sec-slides p{
+	font-size: 25px;
+	text-align: left;
+}
+
+#sec-services{
+	padding: 80px;
+}
+
+#sec-services h2{
+	font-size: 37px;
+	color: #1200B7;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bold;
+}
+
+#sec-services h3{
+	text-align: center;
+	font-weight: bold;
+	padding: 20px;
+}
+
+#sec-services h6{
+	text-align: center;
+	padding: 15px 0;
+}
+
+#sec-services p{
+	font-size: 14px;
+	text-align: center;
+	background-color: #EBEBEB;
+	padding: 10px 20px;
+}
+
+
+#sec-welcome{
+	padding: 80px;
+}
+
+#sec-welcome h2{
+	font-size: 37px;
+	color: #1200B7;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bold;
+}
+
+#sec-welcome h6{
+	text-align: center;
+	padding: 15px 0;
+}
+
+#sec-welcome h3{
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#sec-welcome h4{
+	font-weight: 300;
+	font-size: 15px;
+}
+
+#sec-gallery{
+	padding: 40px;
+	background-color: #1200B7;
+}
+
+#sec-gallery h2{
+	font-size: 37px;
+	color: #FF9600;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bold;
+}
+
+#sec-gallery h6{
+	text-align: center;
+	padding: 15px;
+	color: #fff;
+}
+
+#sec-clients{
+	padding: 60px;
+}
+
+
+#sec-clients h2{
+	font-size: 37px;
+	color: #1200B7;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bold;
+}
+
+#sec-clients h6{
+	text-align: center;
+	padding: 50px;
+	color: #000;
+}
+
+#footer{
+	background-color: #1200B7;
+	color: #fff;
+	padding: 20px 0;
+	text-align: center;
+	font-weight: 500;
+}
+
+.icono{
+	font-size: 25px;
+	color: #1200B7;
+	
+	
+}
+
